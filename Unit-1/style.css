@@ -1,0 +1,20 @@
+.container {
+    margin: 0 auto;
+    background-color: blanchedalmond;
+}
+hr {
+    width: 50%;
+}
+.nav-link,
+.content {
+    text-align: center;
+}
+.hot {
+    margin-bottom: 10px;
+    text-align: center;
+}
+.footer {
+    background-color: black;
+    height: 200px;
+    width: 1141px!important;
+}
